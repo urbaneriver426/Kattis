@@ -1,3 +1,4 @@
+# https://open.kattis.com/problems/faktor
 import math
 def Faktor(totalPublished,impactFactor):
 	impactFactor -= 0.99
